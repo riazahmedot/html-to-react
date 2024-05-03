@@ -1,2 +1,2 @@
-# html-to-react
-Conversion of HTML website to ReactJS 
+
+Author - Sir Riaz Ahmed
